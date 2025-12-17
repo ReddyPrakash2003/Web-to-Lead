@@ -30,3 +30,9 @@ form{
     border: 2px solid rgb(41, 43, 21);
     padding : 15px;
 }
+.g-recaptcha
+{
+padding: 15px;
+display:flex;
+justify-content: center;
+}
