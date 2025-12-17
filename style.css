@@ -1,0 +1,32 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#heading
+{
+    text-align: center;
+}
+input,label
+{
+    display: block;
+    width: 100%;
+}
+label
+{
+    color: rgb(99, 200, 114);
+}
+.submit
+{
+   margin: 15px auto 0 auto;
+   width:40%;
+   background-color:rgb(230, 110, 182);
+   border-radius: 5px;
+}
+form{
+    min-width: 300px;
+    max-width: 500px;
+    margin:auto;
+    border: 2px solid rgb(41, 43, 21);
+    padding : 15px;
+}
